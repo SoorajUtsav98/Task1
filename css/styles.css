@@ -443,6 +443,7 @@ color: red;
   background-color: darkslategrey;
   transition: 0.3s;
   position: absolute;
+  z-index: 1;
 }
 .arrow1{
   position: absolute;
